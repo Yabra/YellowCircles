@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Жёлтые круги</string>
+   <string>Случайные круги</string>
   </property>
   <widget class="QPushButton" name="circlesButton">
    <property name="geometry">
